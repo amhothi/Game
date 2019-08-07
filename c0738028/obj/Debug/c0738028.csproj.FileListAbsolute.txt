@@ -1,0 +1,17 @@
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\c0738028.exe.config
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\c0738028.exe
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\c0738028.pdb
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\EntityFramework.dll
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\EntityFramework.SqlServer.dll
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\System.Data.SQLite.dll
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\System.Data.SQLite.EF6.dll
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\System.Data.SQLite.Linq.dll
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\EntityFramework.xml
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\EntityFramework.SqlServer.xml
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\System.Data.SQLite.xml
+U:\Users\738028\source\repos\c0738028\c0738028\bin\Debug\System.Data.SQLite.dll.config
+U:\Users\738028\source\repos\c0738028\c0738028\obj\Debug\c0738028.csprojAssemblyReference.cache
+U:\Users\738028\source\repos\c0738028\c0738028\obj\Debug\c0738028.csproj.CoreCompileInputs.cache
+U:\Users\738028\source\repos\c0738028\c0738028\obj\Debug\c0738028.csproj.CopyComplete
+U:\Users\738028\source\repos\c0738028\c0738028\obj\Debug\c0738028.exe
+U:\Users\738028\source\repos\c0738028\c0738028\obj\Debug\c0738028.pdb
